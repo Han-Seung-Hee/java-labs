@@ -1,4 +1,4 @@
-package week1.day1;
+package week2.day1;
 
 public class LambdaBasicExcample {
     public static void main(String[] args) {
